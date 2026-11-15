@@ -1,8 +1,0 @@
-Flask
-flask-cors
-numpy
-matplotlib
-astropy
-astroquery
-requests
-pyvo
