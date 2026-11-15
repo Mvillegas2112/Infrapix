@@ -1,0 +1,9 @@
+flask
+flask-cors
+numpy
+matplotlib
+astropy
+astroquery
+pyvo
+requests
+pillow
